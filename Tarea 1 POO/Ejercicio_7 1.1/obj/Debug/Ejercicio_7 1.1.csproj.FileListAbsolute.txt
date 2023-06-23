@@ -1,0 +1,8 @@
+C:\Users\usuario\Documents\UNAH\POO\Ejercicio_7 1.1\bin\Debug\Ejercicio_7 1.1.exe.config
+C:\Users\usuario\Documents\UNAH\POO\Ejercicio_7 1.1\bin\Debug\Ejercicio_7 1.1.exe
+C:\Users\usuario\Documents\UNAH\POO\Ejercicio_7 1.1\bin\Debug\Ejercicio_7 1.1.pdb
+C:\Users\usuario\Documents\UNAH\POO\Ejercicio_7 1.1\obj\Debug\Ejercicio_7 1.1.csproj.AssemblyReference.cache
+C:\Users\usuario\Documents\UNAH\POO\Ejercicio_7 1.1\obj\Debug\Ejercicio_7 1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\usuario\Documents\UNAH\POO\Ejercicio_7 1.1\obj\Debug\Ejercicio_7 1.1.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\UNAH\POO\Ejercicio_7 1.1\obj\Debug\Ejercicio_7 1.1.exe
+C:\Users\usuario\Documents\UNAH\POO\Ejercicio_7 1.1\obj\Debug\Ejercicio_7 1.1.pdb

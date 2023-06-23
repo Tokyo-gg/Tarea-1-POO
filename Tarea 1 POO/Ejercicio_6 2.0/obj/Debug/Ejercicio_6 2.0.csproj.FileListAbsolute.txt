@@ -1,8 +1,0 @@
-C:\Users\usuario\Documents\UNAH\POO\Ejercicio_6 2.0\obj\Debug\Ejercicio_6 2.0.csproj.AssemblyReference.cache
-C:\Users\usuario\Documents\UNAH\POO\Ejercicio_6 2.0\obj\Debug\Ejercicio_6 2.0.csproj.SuggestedBindingRedirects.cache
-C:\Users\usuario\Documents\UNAH\POO\Ejercicio_6 2.0\obj\Debug\Ejercicio_6 2.0.csproj.CoreCompileInputs.cache
-C:\Users\usuario\Documents\UNAH\POO\Ejercicio_6 2.0\bin\Debug\Ejercicio_6 2.0.exe.config
-C:\Users\usuario\Documents\UNAH\POO\Ejercicio_6 2.0\bin\Debug\Ejercicio_6 2.0.exe
-C:\Users\usuario\Documents\UNAH\POO\Ejercicio_6 2.0\bin\Debug\Ejercicio_6 2.0.pdb
-C:\Users\usuario\Documents\UNAH\POO\Ejercicio_6 2.0\obj\Debug\Ejercicio_6 2.0.exe
-C:\Users\usuario\Documents\UNAH\POO\Ejercicio_6 2.0\obj\Debug\Ejercicio_6 2.0.pdb
